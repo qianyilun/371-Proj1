@@ -1,0 +1,10 @@
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.1 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.2 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.3 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.4 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.5 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.6 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.7 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.8 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.9 &
+wget http://http://csil-cpu6.csil.sfu.ca:6789/prj1_files/archive.zip -b -O archive.zip.10 &
